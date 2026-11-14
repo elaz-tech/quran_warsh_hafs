@@ -1,0 +1,30 @@
+{
+  "app1": {
+    "name": "القرآن الكريم ومصحف التجويد",
+    "id_store": "com.eafmicroservice.holy_quran",
+    "logo_offline": "assets/products/holy_quran.png",
+    "logo_online": "https://play-lh.googleusercontent.com/sULfMjL1FcsajXX6NnRkhDW05HzpgnOdA-A_RCxtlRFDFlh1yrXOuNR-UAgzqee9Aic4UqgxT8_wOjkbVtc56w=w240-h480-rw",
+    "link_playstore": "https://play.google.com/store/apps/details?id=com.eafmicroservice.holy_quran"
+  },
+  "app2": {
+    "name": "القرآن الكريم برواية ورش وحفص",
+    "id_store": "com.eafmicroservice.quran_hafs_warsh",
+    "logo_offline": "assets/products/quran_hafs_warsh.png",
+    "logo_online": "https://play-lh.googleusercontent.com/1rfphvYMXN8npEcnmtc6NXKUqOPeloPuWJid5gflCoy7mimO9d5U8j5fovZsKM1p9TbkPw0lSD3Iut56Phls2Do=w240-h480-rw",
+    "link_playstore": "https://play.google.com/store/apps/details?id=com.eafmicroservice.quran_hafs_warsh"
+  },
+  "app3": {
+    "name": "المعين في حفظ القرآن الكريم",
+    "id_store": "com.eafmicroservice.hifd_quran",
+    "logo_offline": "assets/products/hifd_quran.png",
+    "logo_online": "https://play-lh.googleusercontent.com/XMuPBiAY0s1mqmaAUZixQtpkPAz-Pjz8lR6iDA21Uucs7Nxd-hheTr6t16HSNAOX8vp7AH62jNBN_FKZQRa7=w240-h480-rw",
+    "link_playstore": "https://play.google.com/store/apps/details?id=com.eafmicroservice.hifd_quran"
+  },
+  "app4": {
+    "name": "آيات – ذكر وقرآن وحديث",
+    "id_store": "com.eafmicroservice.ayat",
+    "logo_offline": "assets/products/ayat.png",
+    "logo_online": "https://play-lh.googleusercontent.com/_fXdEVRXhqrJobI8WmnSFURoK62_hk_jMaRWVvVcq1PxZtsDj31UoG9ntYTq-R3HW5unNbZkmjOztIflWROE=w240-h480-rw",
+    "link_playstore": "https://play.google.com/store/apps/details?id=com.eafmicroservice.ayat"
+  }
+}
